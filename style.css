@@ -20,3 +20,13 @@ body {
     height: 50px;
     padding: 5px;
 }
+
+.snakeBody {
+    background: url('dot.png');
+    background-size: cover;
+}
+
+.head {
+    background: url('head.png');
+    background-size: cover;
+}
